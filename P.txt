@@ -1,0 +1,10 @@
+ Volume in drive T is Testing
+ Volume Serial Number is 4C8A-712B
+
+ Directory of T:\Project
+
+14-07-2021  15:25    <DIR>          .
+14-07-2021  15:25    <DIR>          ..
+14-07-2021  15:25                 0 P.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  31,010,656,256 bytes free
